@@ -4,7 +4,6 @@ An Alexa app based on *[ASK] Alexa Skills Kit that adds up an Alexa Skill onto A
 
 # Pre-Requisites
 
-##
 - NodeJS
 
 ```bash
